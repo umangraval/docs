@@ -73,7 +73,7 @@ Markdown on this site conforms to the [CommonMark](http://commonmark.org/) spec.
 
 ### Headings
 
-One common mistake with formatting of headings is to not include a space between the hashes and the text. Some markdown processors allow this, but we do not. You must put a space as shown below.
+One common mistake with formatting of headings is not to include a space between the hashes and the text. Some markdown processors allow this, but we do not. You must put a space as shown below.
 
 INVALID: `#My Heading`
 
